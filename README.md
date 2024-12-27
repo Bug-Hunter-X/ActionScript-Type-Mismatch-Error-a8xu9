@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: a type mismatch. The `myFunction` expects an integer for the second parameter, but a string is passed.  The solution shows how to fix the issue by ensuring the correct data type is passed.
